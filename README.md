@@ -16,6 +16,8 @@ The dashboard transforms multi-source pharmaceutical sales data into an interact
 
 The goal is to deliver clear, data-driven insights that support decision-making in inventory management, demand forecasting, and operational planning.
 
+![Pharma Drug Sale Analysis](https://github.com/tharannum/-Pharma-Drug-Sales-Analysis-Dashboard/blob/main/Pharma%20Drug%20Sale%20Analysis.png)
+
 ---
 
 ## 📊 Pharma Sales Performance Dashboard
